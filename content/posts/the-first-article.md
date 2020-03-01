@@ -14,9 +14,9 @@ Naming things is [difficult](http://www.tbray.org/ongoing/When/200x/2005/12/23/U
 
 I've owned my canonical domain for many years, and I've never given too much thought to utilizing it for more than just email. It's not because I've never had anything to write about, it's just that I've long struggled to actually pick up the confidence to share my internal ramblings with anyone else.
 
-Almost a decade into career, now's a good a time as any to start jotting down my experiences, to rant and grumble, and more importantly, share knowledge through instructive tutorials.
+Now - almost a decade into my career - is a good time to start jotting down my experiences, rant and grumble, and more importantly, share knowledge through instructive tutorials.
 
-Having become a parent, it's my hope that one day, that should my children ever want to follow in my footsteps they can relive mine. More likely, they'll take pity on me.
+Having become a parent, it's my hope that one day that should my children ever want to follow in my footsteps they can relive mine.
 
 ## The future
 
