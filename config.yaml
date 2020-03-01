@@ -1,0 +1,59 @@
+baseURL:      "https://brendanhurley.co.uk/"
+languageCode: "en-gb"
+title:        "Brendan Hurley"
+theme:        "noteworthy"
+enableRobotsTXT: true
+paginate: 4
+summaryLength: 10
+taxonomies:
+  tag: tags
+author:
+  name: Brendan Hurley
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  math: true
+  author: Brendan Hurley
+  description:  "I'm a Full Stack Engineer and Technical Leader. I design and build distributed systems utilising a variety of tools, languages and cloud solutions."
+  github: "https://github.com/brendanhurley/"
+  linkedin: "https://www.linkedin.com/in/brendanhurley1/"
+  googleAnalytics: ''
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 1
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 2
+    # - name: Archives
+    #   identifier: archives
+    #   url: /archives/
+    #   weight: 3
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: true
+    disable: false
+    respectDoNotTrack: true
+    useSessionStorage: false
+  instagram:
+    disable: false
+    simple: false
+  twitter:
+    disable: false
+    enableDNT: false
+    simple: false
+  vimeo:
+    disable: false
+    simple: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
